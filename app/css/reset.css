@@ -1,0 +1,23 @@
+html, body { 
+  vertical-align: baseline;  
+  font-family: inherit;  
+  font-style: inherit;  
+  border: none;
+  padding: 0; 
+  margin: 0; 
+  background-color: #fff;
+  color: 
+  } 
+html { 
+  font-size: 1em; 
+  } 
+body { 
+  font-size: 100%; 
+  } 
+a {
+	text-decoration: none;
+	color: #4d4d4d;
+} 
+a img, :link img, :visited img { 
+  border: 0; 
+  } 
